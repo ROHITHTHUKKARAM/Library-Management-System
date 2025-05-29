@@ -1,7 +1,6 @@
 # Library-Management-System
-# Reg No: 
-# Name:
-# Date :
+# Reg No: 212223040173 
+# Name: ROHITH T
 
 
 # AIM:
