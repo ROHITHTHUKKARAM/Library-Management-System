@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No: 212223240107
-# Name: NIRMAL N
-# Date: 15.05.2025
+# Reg No: 
+# Name:
+# Date :
 
 
 # AIM:
